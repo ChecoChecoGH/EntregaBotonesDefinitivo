@@ -16,7 +16,6 @@
         android:layout_margin="10dp"
         android:text="@string/BOTÓN1" />
 
-
     <Button
         android:id="@+id/button2"
         android:layout_width="186dp"
